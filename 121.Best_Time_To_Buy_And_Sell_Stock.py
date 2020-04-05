@@ -5,8 +5,8 @@
 
 def maxProfit(prices):
     """
-    Time Complexity : O(N)
-    Space Complexity : O(1)
+    Time Complexity: O(N)
+    Space Complexity: O(1)
     """
 
     if prices == []:

@@ -1,7 +1,10 @@
 # Solved Questions
 
+- Question : Date solved (YYMMDD)
+
 - [1. Two Sum](https://leetcode.com/problems/two-sum/) : 200404
 - [121. Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) : 200405
+- [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) : 200405
 
 # ToDo
 
