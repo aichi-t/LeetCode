@@ -1,3 +1,8 @@
 # Solved Questions
 
-- [1.Two Sum](https://leetcode.com/problems/two-sum/)
+- [1. Two Sum](https://leetcode.com/problems/two-sum/) : 200404
+- [121. Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) : 200405
+
+# ToDo
+
+- Solve Q.121 Using Kadane's algorithm
