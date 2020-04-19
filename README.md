@@ -1,5 +1,5 @@
 # Solved Questions
-
+Solved : 13
 - Question : Date solved (YYMMDD)
 
 - [1. Two Sum](https://leetcode.com/problems/two-sum/) : 200404
