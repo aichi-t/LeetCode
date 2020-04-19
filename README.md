@@ -1,8 +1,11 @@
 # Solved Questions
-Solved : 13
+
+Solved : 14
+
 - Question : Date solved (YYMMDD)
 
 - [1. Two Sum](https://leetcode.com/problems/two-sum/) : 200404
+- [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) : 200419
 - [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) : 200405
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) : 200406
 - [121. Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) : 200405
@@ -21,3 +24,4 @@ Solved : 13
 - Solve Q.121 Using Kadane's algorithm
 - Solve Q.332 with top down approach
 - Solve Q.139 Again
+- Solve Q.3 Again
