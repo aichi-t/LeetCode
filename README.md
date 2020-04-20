@@ -6,6 +6,7 @@ Solved : 14
 
 - [1. Two Sum](https://leetcode.com/problems/two-sum/) : 200404
 - [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) : 200419
+- [5. Longest Palindromic String](https://leetcode.com/problems/longest-palindromic-substring/) : 200420
 - [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) : 200405
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) : 200406
 - [121. Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) : 200405
