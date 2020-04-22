@@ -1,6 +1,6 @@
 # Solved Questions
 
-Solved : 16
+Solved : 17
 
 - Question : Date solved (YYMMDD)
 
@@ -8,6 +8,7 @@ Solved : 16
 - [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) : 200419
 - [5. Longest Palindromic String](https://leetcode.com/problems/longest-palindromic-substring/) : 200420
 - [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) :200421
+- [15. 3 Sum](https://leetcode.com/problems/3sum/): 200422
 - [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) : 200405
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) : 200406
 - [121. Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) : 200405
