@@ -1,6 +1,6 @@
 # Solved Questions
 
-Solved : 19
+Solved : 20
 
 - Question : Date solved (YYMMDD)
 
@@ -9,8 +9,9 @@ Solved : 19
 - [5. Longest Palindromic String](https://leetcode.com/problems/longest-palindromic-substring/) : 200420
 - [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) :200421
 - [15. 3 Sum](https://leetcode.com/problems/3sum/): 200422
-- [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) :200424
 - [19. Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/): 200423
+- [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) :200424
+- [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) : 2000425
 - [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) : 200405
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) : 200406
 - [121. Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) : 200405
