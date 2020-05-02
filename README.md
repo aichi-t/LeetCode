@@ -1,6 +1,6 @@
 # Solved Questions
 
-Solved : 23
+Solved : 26
 
 - Question : Date solved (YYMMDD)
 
@@ -16,7 +16,9 @@ Solved : 23
 - [33. Search In Rotaed Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) : 200427
 - [39. Combination Sum](https://leetcode.com/problems/combination-sum/) :200428
 - [48. Rotate Image](https://leetcode.com/problems/rotate-image/):200430
+- [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) :200501
 - [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) : 200405
+- [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) :2000502
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) : 200406
 - [121. Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) : 200405
 - [133. Clone Graph](https://leetcode.com/problems/clone-graph/) : 200418
