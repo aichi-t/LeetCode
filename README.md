@@ -1,6 +1,6 @@
 # Solved Questions
 
-Solved : 29
+Solved : 30
 
 - Question : Date solved (YYMMDD)
 
@@ -22,6 +22,7 @@ Solved : 29
 - [55. Jump Game](https://leetcode.com/problems/jump-game/) : 200503
 - [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/): 200504
 - [57. Insert Interval](https://leetcode.com/problems/insert-interval/): 200505
+- [62. Unique Paths](https://leetcode.com/problems/unique-paths/): 200506
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) : 200406
 - [121. Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) : 200405
 - [133. Clone Graph](https://leetcode.com/problems/clone-graph/) : 200418
