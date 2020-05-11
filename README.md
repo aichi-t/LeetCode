@@ -1,6 +1,6 @@
 # Solved Questions
 
-Solved : 30
+Solved : 35
 
 - Question : Date solved (YYMMDD)
 
@@ -27,6 +27,8 @@ Solved : 30
 - [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) : 200407
 - [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) : 200509
 - [79. Word Search](https://leetcode.com/problems/word-search/) : 200509
+- [91. Decode Ways](https://leetcode.com/problems/decode-ways/): 200511
+- [79. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/):200511
 - [121. Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) : 200405
 - [133. Clone Graph](https://leetcode.com/problems/clone-graph/) : 200418
 - [139. Word Break](https://leetcode.com/problems/word-break/) : 200409
