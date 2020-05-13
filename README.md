@@ -1,6 +1,6 @@
 # Solved Questions
 
-Solved : 37
+Solved : 38
 
 - Question : Date solved (YYMMDD)
 
@@ -31,6 +31,7 @@ Solved : 37
 - [79. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/):200511
 - [100. Same Tree](https://leetcode.com/problems/same-tree/):200512
 - [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/): 200513
+- [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/): 2000514
 - [121. Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) : 200405
 - [133. Clone Graph](https://leetcode.com/problems/clone-graph/) : 200418
 - [139. Word Break](https://leetcode.com/problems/word-break/) : 200409
