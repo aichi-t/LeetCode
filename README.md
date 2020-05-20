@@ -1,6 +1,6 @@
 # Solved Questions
 
-Solved : 41
+Solved : 43
 
 - Question : Date solved (YYMMDD)
 
@@ -39,6 +39,8 @@ Solved : 41
 - [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/):200518
 - [133. Clone Graph](https://leetcode.com/problems/clone-graph/) : 200418
 - [139. Word Break](https://leetcode.com/problems/word-break/) : 200409
+- [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/):200519
+- [143. Reoder List](https://leetcode.com/problems/reorder-list/):200520
 - [198. House Robber](https://leetcode.com/problems/house-robber/) : 200411
 - [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) : 200411
 - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) : 200405
@@ -47,11 +49,6 @@ Solved : 41
 - [332. Coin Change](https://leetcode.com/problems/coin-change/) : 200407
 - [377. Combination Sum](https://leetcode.com/problems/combination-sum-iv/) : 2004010
 
-# ToDo
+# Todo
 
-- Solve Q.121 Using Kadane's algorithm
-- Solve Q.332 with top down approach
-- Solve Q.139 Again
-- Solve Q.3 Again
-- Solve Q.39 Again
-- Solve Q.48 Again
+121,332,139,3,39,48,143
