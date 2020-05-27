@@ -1,6 +1,6 @@
 # Solved Questions
 
-Solved : 44
+Solved : 45
 
 - Question : Date solved (YYMMDD)
 
@@ -42,6 +42,7 @@ Solved : 44
 - [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/):200519
 - [143. Reoder List](https://leetcode.com/problems/reorder-list/):200520
 - [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/):2000526
+- [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/):200527
 - [198. House Robber](https://leetcode.com/problems/house-robber/) : 200411
 - [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) : 200411
 - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) : 200405
