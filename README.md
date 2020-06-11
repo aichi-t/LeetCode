@@ -46,6 +46,7 @@ Solved : 48
 - [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/):200528
 - [198. House Robber](https://leetcode.com/problems/house-robber/) : 200411
 - [207. Course Schedule](https://leetcode.com/problems/course-schedule/):200607
+- [208. Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/):200610
 - [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) : 200411
 - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) : 200405
 - [238. Product Except Self](https://leetcode.com/problems/product-of-array-except-self/) : 200405
@@ -55,4 +56,4 @@ Solved : 48
 
 # Todo
 
-121,332,139,3,39,48,143
+121,332,139,3,39,48,143,208
