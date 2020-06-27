@@ -1,6 +1,6 @@
 # Solved Questions
 
-Solved : 50
+Solved : 51
 
 - Question : Date solved (YYMMDD)
 
@@ -50,6 +50,7 @@ Solved : 50
 - [211. Add and Search word](https://leetcode.com/problems/add-and-search-word-data-structure-design/):200615
 - [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) : 200411
 - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) : 200405
+- [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/):200627
 - [238. Product Except Self](https://leetcode.com/problems/product-of-array-except-self/) : 200405
 - [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) : 200408
 - [332. Coin Change](https://leetcode.com/problems/coin-change/) : 200407
